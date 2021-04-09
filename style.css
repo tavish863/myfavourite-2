@@ -1,0 +1,29 @@
+.sp {
+    margin: 20px;
+}
+
+#p1 {
+    text-align: center;
+    font-size: 60px;
+}
+
+body {
+    text-align: center;
+    background-color: yellow;
+}
+
+#img1 {
+    width: 600px;
+    padding: 5px;
+    height: 370px;
+}
+
+#p2 {
+    text-align: center;
+    font-size: 40px;
+}
+
+#p3 {
+    text-align: center;
+    font-size: 30px;
+}
